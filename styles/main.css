@@ -1,0 +1,111 @@
+
+
+
+header {
+background-color: #DDDDDD;
+position: fixed;
+width: 100%;
+top: 0px;
+left: 0px;
+right: 0px;
+
+
+}
+
+
+header  ul {
+	display: inline-block;
+	position: absolute;
+	right: 0px;
+	list-style-type: none;
+
+}
+
+
+header li {
+	display: inline-block;
+	margin-right: 15px;
+	
+	
+
+}
+
+.logotext {
+display: inline-block;
+margin-left: 15px;
+font-weight: bold;
+}
+
+main {
+padding-top: 90px;
+width: 900px;
+margin-left: auto;
+margin-right: auto;
+/*background-color: yellow;*/
+
+}
+
+
+
+.datesearch {
+	display: inline-block;
+	
+	padding: 10px;
+
+}
+
+
+.datelist {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.jobsearch {
+
+ 
+ width: 400px;
+ height: 2em;
+
+}
+
+.searchicon {
+	
+	background:url("../images/magnifying-glass.png") no-repeat;
+
+    width: 25px;
+  
+    border: none;
+    vertical-align: middle;
+
+
+}
+
+ul.jobs {
+	padding-left: 0px;
+
+}
+
+li.job {
+	list-style-type: none;
+	margin-bottom: 25px;
+	color: #999;
+	font-weight: bold;
+
+}
+
+.niceborder {
+ border: 2px solid #DDDDDD;
+ border-radius: 4px;
+
+
+}
+
+a {
+font-size: 1.2em;
+text-decoration: none;
+}
+
+a:hover {
+	color: pink;
+	
+}
